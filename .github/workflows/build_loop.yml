@@ -256,7 +256,6 @@ jobs:
           no_auth \
           override_sens \
           now_line \
-          dexcom_one_plus \
           2002
 
           # the final customization listed above CANNOT have a continuation character "\"
